@@ -6,7 +6,7 @@
 
 * The trade offs you made and why
     If there are lots of data returned by the api call, utilizing the paging library
-    would be option if the the call supports pagination
+    would be a option if the call supports pagination
 
 * How to run your project
     Use the latest android studio version and open the root directory of this project.  The
@@ -17,6 +17,7 @@
 * 3rd party libraries or copied code you may have used
     - Retrofit and Moshi to make network calls and transform JSON data to POJOs
     - Turbine for Flow testing
-    - Mockk for testing
+    - JUnit and Mockk for testing
     - Android Jetpack libs with coroutines/Flows for implementing MVVM framework
+  
 * Any other information that you would like us to know
