@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Stocks App</string>
+
+    <string name="own_shares_quantity">Own: %s shares</string>
+    <string name="last_updated">Last update: %s</string>
+    <string name="stock_price">Price: %s%.2f</string>
+    <string name="stock_total">Balance: %s%.2f</string>
+
+    <string name="empty_state">No results found.</string>
+    <string name="error_retrieving_data">There was an error retrieving your data. Please try again later.</string>
+    <string name="error_malformed_data">Invalid data. Please try again later.</string>
+    <string name="error_internet_connect">Unable to connect. Please check your internet connection.</string>
+
+    <string name="get_empty_data">Get empty data</string>
+    <string name="get_malformed_data">Get malformed data</string>
+</resources>
